@@ -19,3 +19,9 @@ $ ./stop.sh
 # HELP
 $ ./help.sh
 ```
+
+## AUTHOR
+平内英之 <hirauchi@ideapump.net>
+
+## LICENSE
+MIT
